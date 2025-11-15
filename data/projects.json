@@ -1,0 +1,198 @@
+[
+    {
+        "title": "Automating Data Input Workflow to Improve Accuracy & Efficiency",
+        "start": "2024-10",
+        "end": "2024-11",
+        "description": "Trong quá trình tạo SKU mới, team Merchandise phải nhập thông tin vào nhiều mẫu Excel khác nhau để gửi đến bộ phận IT. Quá trình này tốn nhiều thời gian, dễ sai sót và thiếu nhất quán. <br><br>Mình đã thiết kế một file excel giúp tự động hóa toàn bộ quy trình này - nhập dữ liệu vào các template cần thiết chỉ với 1 cú click, đồng thời kiểm soát thông tin đầy đủ và chính xác.<br><br>Giải pháp này hiện đang áp dụng cho nhóm, giúp giảm thời gian thao tác từ 20 phút xuống dưới 2 phút cho mỗi lần thực hiện quy trình, đảm bảo dữ liệu được điền chính xác 100% và sẵn sàng để IT xử lý.",
+        "skills": {
+            "technical": [
+                "VBA Excel",
+                "Excel Automation",
+                "Microsoft Excel Macros"
+            ],
+            "soft": [
+                "Process Automation"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/data-entry-automation"
+    },
+    {
+        "title": "Optimizing Sales Report Performance",
+        "start": "2024-11",
+        "end": "2024-12",
+        "description": "Trong quá trình làm báo cáo bán hàng hàng tuần, nhóm thường phải xử lý dữ liệu thô với hàng trăm nghìn dòng bằng cách copy-paste thủ công và dùng các hàm Excel cơ bản để tính toán.<br>Điều này khiến file báo cáo trở nên rất nặng (trên 150MB), load chậm, khó cập nhật dữ liệu mới và tiềm ẩn nhiều sai sót do thao tác thủ công.<br><br>Dự án được thực hiện nhằm tối ưu quy trình tổng hợp và làm sạch dữ liệu, giảm dung lượng file, tự động hóa xử lý dữ liệu và tăng tốc độ cập nhật báo cáo bằng cách sử dụng Power Query và Pivot Table.",
+        "skills": {
+            "technical": [
+                "Microsoft Power Query",
+                "Pivot Tables",
+                "ETL",
+                "Parameter & Data Connection Management"
+            ],
+            "soft": [
+                "Workflow Optimization"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/sales-report-optimization"
+    },
+    {
+        "title": "Automating Product Data Collection from Internal Website",
+        "start": "2025-01",
+        "end": "2025-03",
+        "description": "Khi có đơn hàng nhập khẩu mới, Phòng Merchandise cần nhanh chóng có thông tin chi tiết về sản phẩm (tên, mô tả, chất liệu, kích thước...) để hỗ trợ Logistic các bước như khai báo hải quan và in nhãn phụ. Tuy nhiên, các thông tin này hiện có sẵn trên website nội bộ của công ty, và việc copy thủ công từng sản phẩm là một quá trình tốn thời gian, đặc biệt khi số lượng sản phẩm có thể lên đến hàng trăm hoặc hàng nghìn mã hàng.<br><br>Dự án này được thực hiện nhằm tự động hóa quá trình thu thập dữ liệu từ website nội bộ, giúp tiết kiệm thời gian, giảm sai sót và cung cấp thông tin kịp thời cho các bộ phận liên quan.",
+        "skills": {
+            "technical": [
+                "Python",
+                "Selenium",
+                "Pandas"
+            ],
+            "soft": [
+                "Process Automation"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/internal-web-data-automation"
+    },
+    {
+        "title": "Automating Monthly Stock Value Report",
+        "start": "2025-04",
+        "end": "2025-05",
+        "description": "Bộ phận Merchandise cần theo dõi Stock Value hàng tháng theo nhiều cấp độ:<br><br>- Loại hàng hóa (Import, Outright, Consign)<br>- Ngành hàng<br>- Nhà cung cấp (Vendor)<br><br>Tuy nhiên, các dữ liệu như giá cost, tồn kho, loại hàng, ngành hàng lại nằm rải rác ở nhiều file khác nhau.<br>Hơn nữa, dữ liệu tồn kho tải về hàng ngày rất lớn (với hàng chục nghìn SKU và nhiều cửa hàng), khiến việc tổng hợp và tính toán Stock Value thủ công trở nên mất nhiều thời gian, dễ lỗi, và không nhất quán.<br><br>Dự án này được thực hiện nhằm tự động hóa quy trình tổng hợp, làm sạch và tính toán Stock Value bằng Power Query và Pivot Table, giúp quản lý Merchandise có thể xem báo cáo nhanh chóng, chính xác, và dễ dàng mở rộng.",
+        "skills": {
+            "technical": [
+                "Microsoft Power Query",
+                "Pivot Tables",
+                "Business Reporting",
+                "Data Modeling",
+                "Excel Pivot"
+            ],
+            "soft": [
+                "Performance Optimization"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/stock-value-automation"
+    },
+    {
+        "title": "Centralized Import Data Repository for Logistic Efficiency",
+        "start": "2025-06",
+        "end": "2025-06",
+        "description": "Trong quy trình nhập khẩu, bộ phận Logistic cần các thông tin quan trọng như MSDS, chất liệu, kích thước, HS code, thuế, hazmat, tên sản phẩm… để khai báo hải quan và xử lý các nghiệp vụ liên quan.<br>Trước đây, thông tin này không được lưu trữ tập trung — mỗi lần nhập hàng, bộ phận Merchandise phải cung cấp lại thông tin từ đầu, gây lãng phí thời gian, nhân lực và tăng nguy cơ sai sót.<br><br>Dự án này được thực hiện nhằm xây dựng một hệ thống dữ liệu tập trung (Import Database) để quản lý và tái sử dụng toàn bộ thông tin sản phẩm nhập khẩu, giúp quy trình làm việc giữa Merchandise và Logistic hiệu quả hơn.",
+        "skills": {
+            "technical": [
+                "Data Management",
+                "Data Structures",
+                "Data Collection",
+                "Data Storage",
+                "Microsoft Power Query",
+                "ETL"
+            ],
+            "soft": [
+                "Team Communication",
+                "Requirement Gathering",
+                "Process Optimization"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/import-data-repository"
+    },
+    {
+        "title": "International Purchasing Insights Report",
+        "start": "2025-06",
+        "end": "2025-07",
+        "description": "Trước đây, việc mua hàng Quốc tế của phòng Merchandise chỉ dựa trên file Sales Report tổng hợp, không chuyên biệt cho hàng nhập khẩu.<br>Điều này khiến việc phân tích trở nên khó khăn — thiếu các chỉ số đặc thù như: loại hàng, vendor, thương hiệu, trạng thái SKU, và thông tin “block purchasing”.<br><br>Để giải quyết vấn đề này, dự án “International Purchasing Insights Report” được thực hiện nhằm:<br><br>Tập trung toàn bộ dữ liệu liên quan đến SKU nhập khẩu.<br>Cung cấp các chỉ số định lượng & định tính cần thiết cho việc ra quyết định mua hàng quốc tế chính xác và chủ động.<br>Cho phép phân tích linh hoạt theo nhiều chiều: thời gian, thương hiệu, vendor, ngành hàng, trạng thái SKU.",
+        "skills": {
+            "technical": [
+                "Data Management",
+                "Data Analysis",
+                "Data Modeling",
+                "Data Preparation",
+                "Microsoft Power Query",
+                "Pivot Tables"
+            ],
+            "soft": [
+                "Data-driven Decision Making"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/international-purchasing-report"
+    },
+    {
+        "title": "Collaborative Import Workflow Optimization",
+        "start": "2025-07",
+        "end": "2025-07",
+        "description": "Trong quy trình nhập khẩu, phòng Merchandise cần cung cấp nhiều dữ liệu cho bộ phận Logistic.<br>Tuy nhiên, trước đây việc xử lý dữ liệu gặp nhiều vấn đề nghiêm trọng:<br><br>1. Thiếu nơi làm việc tập trung – mỗi thành viên xử lý dữ liệu độc lập, dẫn đến trùng lặp và tốn thời gian.<br>2. Hạn chế kỹ năng Excel – nhiều lỗi khi tổng hợp thủ công các Commercial Invoice, đặc biệt với SKU trùng lặp.<br>3. Thiếu khả năng theo dõi tiến độ – Quản lý không thể biết dữ liệu đã được xử lý đến đâu, bởi không có hệ thống chung.<br><br>Dự án Collaborative Import Workflow Optimization được thực hiện để giải quyết triệt để các vấn đề trên, hướng tới một quy trình làm việc tập trung, nhanh chóng và minh bạch.",
+        "skills": {
+            "technical": [
+                "Data Management"
+            ],
+            "soft": [
+                "Workflow Optimization",
+                "Requirements Gathering",
+                "Communication"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/collaborative-import-workflow"
+    },
+    {
+        "title": "3PL Inventory Optimization & Store Reallocation Report",
+        "start": "2025-07",
+        "end": "2025-07",
+        "description": "Trong hoạt động vận hành hàng nhập khẩu, công ty sử dụng 3PL (Third-Party Logistics) để lưu trữ hàng hóa.<br>Tuy nhiên, khi số lượng SKU và đơn hàng tăng, việc phân bổ hàng hóa về cửa hàng không triệt để dẫn đến hàng tồn ở kho 3PL hoặc hàng hoàn trả từ cửa hàng về kho 3PL, gây tốn chi phí lưu trữ đáng kể.<br><br>Đồng thời, không có một báo cáo trung tâm nào giúp công ty theo dõi chính xác lượng hàng đang tồn ở 3PL, SKU nào đang bán chạy/chậm tại từng cửa hàng, hoặc xác định đâu là hành động cần thực hiện để tối ưu việc trưng bày và luân chuyển hàng hóa.",
+        "skills": {
+            "technical": [
+                "Inventory Analysis",
+                "Data Analysis",
+                "Microsoft Power Query",
+                "Pivot Tables"
+            ],
+            "soft": [
+                "Data-driven Decision Making",
+                "Supply Chain Optimization"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/3pl-inventory-optimization"
+    },
+    {
+        "title": "Local Replenishment System - Data-Driven Purchasing Optimization",
+        "start": "2025-05",
+        "end": "2025-09",
+        "description": "“Từ cảm tính sang dữ liệu – từ phản ứng sang chủ động.”<br>Đây là một trong những dự án mà tôi tâm đắc nhất, vì nó không chỉ giải quyết vấn đề kỹ thuật mà còn thay đổi cả tư duy vận hành của phòng Merchandise trong việc ra quyết định mua hàng.<br><br>Trước đây, việc mua hàng nội địa được thực hiện dựa vào kinh nghiệm cá nhân của Buyer, thường theo nguyên tắc đơn giản:<br><br>“Bán được 10 thì mua lại 10.”<br><br>Cách làm này tuy hiệu quả với ít cửa hàng, nhưng khi hệ thống mở rộng, nó bộc lộ hai vấn đề lớn:<br><br>Thiếu hàng cho SKU bán chạy, khiến cơ hội bán bị bỏ lỡ.<br>Tồn kho cao cho SKU bán chậm, gây ra vốn bị “kẹt” trong tồn kho.<br><br>Thêm vào đó, việc ra quyết định mua hàng hoàn toàn không có dữ liệu chứng minh. Quản lý phòng Merchandise không thể kiểm chứng được Purchase Order được tạo ra dựa trên cơ sở nào, và liệu quyết định đó có thực sự hợp lý hay không.",
+        "skills": {
+            "technical": [
+                "Excel Pivot",
+                "Data Analysis",
+                "Microsoft Power Query",
+                "Pivot Tables",
+                "Folder Structure Optimization",
+                "Power Pivot"
+            ],
+            "soft": [
+                "Business Process Improvement"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/local-replenishment-system"
+    },
+    {
+        "title": "Local Data Repository for Merchandise Insights",
+        "start": "2025-09",
+        "end": "2025-09",
+        "description": "Sau khi xây dựng thành công Centralized Import Data Repository for Logistic Efficiency để lưu trữ dữ liệu hàng nhập khẩu, mình nhận ra rằng hệ thống dữ liệu nội bộ vẫn chưa đầy đủ — vì sao có Import Database mà không có Local Database?<br><br>Mặc dù mỗi database phục vụ mục đích riêng, nhưng để đảm bảo tính đồng bộ, thống nhất logic và cấu trúc dữ liệu trong phòng Merchandise, mình quyết định phát triển thêm Local Database – nơi lưu trữ, quản lý, và chia sẻ toàn bộ dữ liệu liên quan đến hàng hóa nội địa (Local).<br><br>Mục tiêu của dự án là trao quyền chủ động cho các Local Buyer, giúp họ tự tra cứu thông tin (như Item Status, Vendor Status, Vendor Commission…) mà không cần đợi mình cung cấp, đồng thời tạo ra nguồn dữ liệu lịch sử có thể phân tích xu hướng dài hạn.",
+        "skills": {
+            "technical": [
+                "Data Structures",
+                "Data Management"
+            ],
+            "soft": [
+                "Communication",
+                "Documentation"
+            ]
+        },
+        "company_customer": "ACE HOME CENTER VIETNAM",
+        "link": "https://github.com/tramdangtai/local-data-repository"
+    }
+]

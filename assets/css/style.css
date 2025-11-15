@@ -1,0 +1,212 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: #fafafa;
+}
+header {
+background: #222;
+color: #fff;
+padding: 20px;
+text-align: center;
+}
+details {
+background: white;
+margin: 10px;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+details summary {
+font-size: 18px;
+font-weight: bold;
+cursor: pointer;
+}
+details summary::marker {
+font-size: 20px;
+}
+.project-card {
+background: #fff;
+padding: 15px;
+margin: 10px 0;
+border-radius: 6px;
+box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+
+/* CONTACT SECTION - START */
+/* Wrap */
+#contact-icons {
+  display: flex;
+  gap: 16px;
+  padding: 12px 0;
+}
+
+/* Icon item */
+#contact-icons .contact-item img {
+  width: 28px;
+  height: 28px;
+  opacity: 0.85;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+/* Hover effect */
+#contact-icons .contact-item:hover img {
+  transform: scale(1.15);
+  opacity: 1;
+}
+
+/* Optional: center if bạn thích */
+#contact-icons {
+  align-items: center;
+}
+/* CONTACT SECTION - END */
+
+
+/* FORMAT LINK - START */
+a {
+  color: inherit;             /* Giữ màu theo parent */
+  text-decoration: none;      /* Không gạch chân */
+  font-weight: 500;           /* Nhấn nhẹ */
+  transition: 0.2s ease;
+}
+
+a:hover {
+  text-decoration: underline; /* Hover mới underline */
+  opacity: 0.8;
+}
+/* FORMAT LINK - END */
+
+
+
+
+/* ===== Blog Post Modern Cards ===== */
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.post-card {
+  background: #fff;
+  padding: 14px 16px;
+  border-radius: 8px;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.04);
+  transition: 0.2s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+}
+
+.post-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #111;
+}
+
+.post-title a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #6b7280;
+  display: flex;
+  gap: 8px;
+}
+
+.post-platform {
+  font-weight: 600;
+  color: #0d6efd;
+}
+
+
+/* ===== Certificates Section ===== */
+.cert-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.cert-card {
+  background: #fff;
+  padding: 14px 16px;
+  border-radius: 8px;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.04);
+  transition: 0.2s ease;
+}
+
+.cert-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+}
+
+.cert-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.cert-provider {
+  color: #6b7280;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.cert-meta {
+  margin-top: 6px;
+  font-size: 13px;
+  color: #4b5563;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.cert-link {
+  margin-top: 10px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 8px;
+  background: transparent;
+  color: #0b63d6;
+  border: 1px solid rgba(11,99,214,0.12);
+  font-weight: 600;
+  transition: background 140ms ease, transform 120ms ease;
+}
+
+.cert-link:hover {
+  background: rgba(11,99,214,0.06);
+  transform: translateY(-2px);
+}
+
+
+/* Skill badges for certs */
+.cert-skills {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.cert-skill {
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  background: rgba(15, 76, 129, 0.06);
+  color: #0f4c81;
+  border: 1px solid rgba(15, 76, 129, 0.10);
+  font-weight: 600;
+}

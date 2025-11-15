@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Hướng Dẫn Bán Hàng Shopee từ A-Z: Bí Mật Nghìn Đơn Dễ Dàng",
+        "provider": "Udemy",
+        "date": "2023-09-14",
+        "url": "https://www.udemy.com/certificate/UC-a6892969-293e-4b2d-ad5f-3e6b62c5d578/",
+        "skills": [
+            "E-commerce Optimization",
+            "E-commerce SEO"
+        ]
+    },
+    {
+        "title": "Google Sheets - The Comprehensive Masterclass",
+        "provider": "Udemy",
+        "date": "2023-10-12",
+        "url": "https://www.udemy.com/certificate/UC-b52fc824-f415-4374-823f-1b6223c46e5d/",
+        "skills": [
+            "Google Sheets",
+            "Analytical Skills",
+            "Data Cleaning",
+            "Data Interpretation"
+        ]
+    },
+    {
+        "title": "Bứt phá doanh số trên Ecommerce bằng thiết kế hình ảnh",
+        "provider": "Udemy",
+        "date": "2024-04-11",
+        "url": "https://www.udemy.com/certificate/UC-5c94e5ba-5a7d-4a25-8069-bb28d2339ba3/",
+        "skills": [
+            "Canva",
+            "Visual Communication"
+        ]
+    },
+    {
+        "title": "Practical SQL",
+        "provider": "SMART DATA",
+        "date": "2024-08-21",
+        "url": "https://www.dataanalyst.edu.vn/certificate/9KVAO7",
+        "skills": [
+            "SQL",
+            "Query Optimization"
+        ]
+    },
+    {
+        "title": "Practical Data Analyst",
+        "provider": "SMART DATA",
+        "date": "2024-08-21",
+        "url": "https://www.dataanalyst.edu.vn/certificate/RD5IFH",
+        "skills": [
+            "Microsoft Power BI"
+        ]
+    },
+    {
+        "title": "Unlock Excel VBA and Excel Macros",
+        "provider": "Udemy",
+        "date": "2024-12-29",
+        "url": "https://www.udemy.com/certificate/UC-e4c0f73f-1fa5-4634-a7f3-a83a276c20b3/",
+        "skills": [
+            "Visual Basic for Applications (VBA)",
+            "Excel Automation",
+            "Workflow Optimization",
+            "Microsoft Excel Macros"
+        ]
+    },
+    {
+        "title": "Python for Data Analyst",
+        "provider": "SMART DATA",
+        "date": "2024-12-24",
+        "url": "https://www.dataanalyst.edu.vn/certificate/HATD8T",
+        "skills": [
+            "Python (Programming Language)",
+            "Data Analytics",
+            "Data Visualization",
+            "Web Scraping"
+        ]
+    },
+    {
+        "title": "Build Chat Applications with OpenAl and LangChain",
+        "provider": "Udemy",
+        "date": "2025-07-31",
+        "url": "https://www.udemy.com/certificate/UC-e6be7060-5af2-44a2-bdd3-d90f282a5286/",
+        "skills": [
+            "Large Language Models (LLM)",
+            "OpenAI API",
+            "Prompt Engineering",
+            "Retrieval-Augmented Generation (RAG)",
+            "Python (Programming Language)",
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "title": "Microsoft Power BI Desktop for Business Intelligence",
+        "provider": "Udemy",
+        "date": "2025-09-27",
+        "url": "https://www.udemy.com/certificate/UC-d4a73962-2be5-42fa-80e0-7f8699e85501/",
+        "skills": [
+            "Data Manipulation",
+            "Data Modeling",
+            "Data Visualization",
+            "Microsoft Power Query",
+            "Data Cleaning",
+            "Dashboard Building",
+            "Data Analytics",
+            "Microsoft Power BI",
+            "Extract, Transform, Load (ETL)",
+            "Business Intelligence (BI)",
+            "Data Transformation"
+        ]
+    }
+]
