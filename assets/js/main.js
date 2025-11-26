@@ -1,5 +1,5 @@
 async function loadJSON(path) {
-  const res = await fetch(path);
+  const res = await fetch(path + '?v=' + Date.now());
   return res.json();
 }
 
@@ -126,6 +126,7 @@ function renderContact(contacts) {
     </a>
   `;
 }
+
 
 
 
