@@ -106,5 +106,16 @@
             "Business Intelligence (BI)",
             "Data Transformation"
         ]
+    },
+    {
+        "title": "Complete Google Appsheet - Quick and Easy No-Code Apps",
+        "provider": "Udemy",
+        "date": "2025-12-06",
+        "url": "https://www.udemy.com/certificate/UC-f900c344-4a4b-4454-b8e1-521bc9471017/",
+        "skills": [
+            "Data Management",
+            "Mobile App Development (No-Code)"
+        ]
     }
+
 ]
